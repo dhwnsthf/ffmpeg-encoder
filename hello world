@@ -3,4 +3,6 @@
 void main()
 {
   printf("hello world");
+  /////////////////////
+  printf("4조입니다");
 }
